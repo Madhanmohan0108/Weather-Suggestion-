@@ -1,4 +1,4 @@
-# 🌦️ LLM Weather Suggestion App
+# 🌦️ AI Weather Advisor
 
 A simple Python app that fetches real-time weather data for a city and uses a Large Language Model (Google Gemini) to generate personalized suggestions on what to wear and eat based on current conditions.
 
